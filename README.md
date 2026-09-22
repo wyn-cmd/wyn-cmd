@@ -6,15 +6,10 @@
   </p>
 
 
-## Visitor Counter
-
-<p align="center">
-       <img src="https://komarev.com/ghpvc/badge?username=wyn-cmd&color=ff69b4&style=flat-square" alt="visitor count" />
-</p>
-
-
 
 ## Stats
 <p align="center">
-       <img src="https://github-readme-stats.vercel.app/api?username=wyn-cmd&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wyn-cmd&theme=radical&background=0d1117&border=ff69b4" alt="GitHub Streak" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=wyn-cmd.wyn-cmd" alt="visitor count" />
 </p>
+
