@@ -19,7 +19,7 @@
     <img src="https://skillicons.dev/icons?icons=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://wyn-cmd.github.io/portfolio/">
-     <img src="https://api.iconify.design/lucide:globe.svg?color=%23ffffff&box=true&width=48&height=48&bg=%232b3137&radius=12" alt="Portfolio" width="48" height="48" />
+     <img src="https://api.iconify.design/lucide/globe.svg?color=%23f5b84a&width=48&height=48" alt="Portfolio" width="48" height="48" />
   </a>
 </p>
 
